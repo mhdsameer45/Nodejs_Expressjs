@@ -1,0 +1,29 @@
+{
+  "user1": {
+    "name": "mahesh",
+    "password": "password1",
+    "profession": "teacher",
+    "id": 1
+  },
+  "user2": {
+    "name": "suresh",
+    "password": "password2",
+    "profession": "librarian",
+    "id": 2
+  },
+  "user3": {
+    "name": "ramesh",
+    "password": "password3",
+    "profession": "clerk",
+    "id": 3
+  },
+  "user979c3032-4a84-43d4-9f0d-f7034cb16c12": {
+    "user4": {
+      "name": "mohit",
+      "password": "password4",
+      "profession": "teacher",
+      "id": 4
+    },
+    "id": "979c3032-4a84-43d4-9f0d-f7034cb16c12"
+  }
+}
